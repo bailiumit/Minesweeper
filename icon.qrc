@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="flag">icon/flag.PNG</file>
+        <file alias="help">icon/help.PNG</file>
+        <file alias="helptext">icon/helptext.PNG</file>
+        <file alias="info">icon/info.PNG</file>
+        <file alias="infotext">icon/infotext.PNG</file>
+        <file alias="mine">icon/mine.PNG</file>
+        <file alias="new">icon/new.PNG</file>
+        <file alias="num0">icon/num0.PNG</file>
+        <file alias="num1">icon/num1.PNG</file>
+        <file alias="num2">icon/num2.PNG</file>
+        <file alias="num3">icon/num3.PNG</file>
+        <file alias="num4">icon/num4.PNG</file>
+        <file alias="num5">icon/num5.PNG</file>
+        <file alias="num6">icon/num6.PNG</file>
+        <file alias="num7">icon/num7.PNG</file>
+        <file alias="num8">icon/num8.PNG</file>
+        <file alias="num9">icon/num9.PNG</file>
+        <file alias="settings">icon/settings.PNG</file>
+        <file alias="unsure">icon/unsure.PNG</file>
+        <file alias="clear">icon/clear.png</file>
+        <file alias="mineicon">icon/mineicon.png</file>
+        <file alias="flagleft">icon/flagleft.png</file>
+        <file alias="time">icon/time.PNG</file>
+    </qresource>
+</RCC>
